@@ -1,0 +1,23 @@
+body {
+    
+}
+
+#main {
+    width: 50%;
+    margin: auto;
+}
+
+#title img {
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+}
+
+#messages {
+    margin-top: 50px;
+}
+
+
+.tabulation {
+text-indent: 20px;
+}

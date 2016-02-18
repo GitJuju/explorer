@@ -1,0 +1,31 @@
+body {
+width: 95%;
+background-color: #66ff66;
+}
+
+#liste {
+padding-left : 1%;
+position: absolute;
+width: 25%;
+
+}
+#contenu {
+padding-left : 1%;
+float: right;
+width: 70%;
+}
+
+.horiz {
+color: black;
+}
+
+
+.fichier {
+padding-left: 0.4cm;
+text-align:center;
+font-size: small;
+}
+
+ul {
+    padding-left: 15px;
+}
